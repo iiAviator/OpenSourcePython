@@ -2,13 +2,16 @@
 This repository contains a compilation of resources that you can use to learn Python 3. Completely online, completely free. Please keep in mind that none of these resources are *mine*. Its also important to note that the some of the courses are paid, but are *free* to audit. 
 
 ## Courses:
+Please note that you don't have to follow the prerequisites and the order of the courses. You can check the actual course for the recommended prerequisities. 
+
+These are the beginner courses to get you started on Python:
 | Course | School | Time | Prerequisites |
 | ------ | ------ | ------ | ------ |
 | [Introduction to Python: Absolute Beginner](https://www.edx.org/course/introduction-to-python-absolute-beginner-4%5D%28https://www.edx.org/course/introduction-to-python-absolute-beginner-4%29)| Microsoft| 5 Weeks, 3-4 Hours per week.| None |
 | [Introduction to Python: Fundamentals](https://www.edx.org/course/introduction-to-python-fundamentals-4) | Microsoft| 5 Weeks, 3-4 Hours per week. | Introduction to Python: Fundamentals |
 
-
 ## Going Further:
+These are the courses that help you go further into a certain field, once again, you don't have to follow the order. You may choose what to take at any time. 
 | Course | School | Time | Prerequisites |
 | ------ | ------ | ------ | ------ |
 | [Principles of Machine Learning: Python Edition](https://www.edx.org/course/principles-of-machine-learning-python-edition-3) | Microsoft| 6 Weeks, 6-8 Hours per week. | Basic math and Introduction to Python Fundamentals  |
@@ -21,6 +24,7 @@ This repository contains a compilation of resources that you can use to learn Py
 | [Using Python to Access to Web Data](https://www.coursera.org/learn/python-network-data) | UniversityofMichiganX | 6 weeks, 2-4 hours per week. | Introduction to Python: Fundamentals | 
 
 ## Math:
+These are the math courses that are related towards Python. 
 | Course | School | Time | Prerequisites |
 | ------ | ------ | ------ | ------ |
 | [Essential Math for Machine Learning: Python Edition](https://www.edx.org/course/essential-math-for-machine-learning-python-edition-3)| Microsoft| 6 Weeks, 6-8 Hours per week.| Introduction to Python: Fundamentals |
