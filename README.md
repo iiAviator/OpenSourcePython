@@ -5,6 +5,7 @@ This repository contains a compilation of resources that you can use to learn Py
 ### Please note that you don't have to follow the prerequisites and the order of the courses. You can check the actual course for the recommended prerequisities. 
 
 These are the beginner courses to get you started on Python:
+
 | Course | School | Time | Prerequisites |
 | ------ | ------ | ------ | ------ |
 | [Introduction to Python: Absolute Beginner](https://www.edx.org/course/introduction-to-python-absolute-beginner-4%5D%28https://www.edx.org/course/introduction-to-python-absolute-beginner-4%29)| Microsoft| 5 Weeks, 3-4 Hours per week.| None |
