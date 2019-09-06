@@ -1,7 +1,7 @@
 ﻿# Open Source Python
 This repository contains a compilation of resources that you can use to learn Python 3. Completely online, completely free. Please keep in mind that none of these resources are *mine*. Its also important to note that the some of the courses are paid, but are *free* to audit. 
 
-Note: This project was inspired from ForrestKnight's open source cs, open source cs is a project that focuses on generic computer science. This project focuses on Python.
+Note: This project was inspired from ForrestKnight's open source cs, open source cs is a project that focuses on generic computer science. This project focuses on Python. https://github.com/ForrestKnight/open-source-cs
 
 ## Courses:
 Please note that you don't have to follow the prerequisites and the order of the courses. You can check the actual course for the recommended prerequisities. 
