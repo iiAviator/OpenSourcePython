@@ -1,7 +1,7 @@
 ﻿# Open Source Python
 This repository contains a compilation of resources that you can use to learn Python 3. Completely online, completely free. Please keep in mind that none of these resources are *mine*. Its also important to note that the some of the courses are paid, but are *free* to audit. 
 
-Github Pages version of the website: [iiAviator.github.io/OpenSourcePython](iiAviator.github.io/OpenSourcePython) 
+Github Pages version of the website: [iiAviator.github.io/OpenSourcePython](https://iiaviator.github.io/OpenSourcePython/) 
 
 Github Repository: [Github Repo](https://github.com/iiAviator/OpenSourcePython)
 
