@@ -18,7 +18,7 @@ This repository contains a compilation of resources that you can use to learn Py
 | [Analyzing Data with Python](https://www.edx.org/course/data-analysis-with-python) | IBM | 5 weeks, 2-4 hours per week. | Introduction to Python: Fundamentals |
 | [Data Visualization for Python](https://www.edx.org/course/data-visualization-with-python) | IBM | 5 weeks, 2-4 hours per week. | Analyzing Data with Python, Python Basics for Data Science |
 | [CS50 Web Programming with Python and Javascript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)| HarvardX |12 weeks, 6-9 hours per week. | CS50 or Introduction to Python: Fundamentals|
-| [Using Python to Access to Web Data] https://www.coursera.org/learn/python-network-data | UniversityofMichiganX | 6 weeks, 2-4 hours per week. | Introduction to Python: Fundamentals | 
+| [Using Python to Access to Web Data](https://www.coursera.org/learn/python-network-data) | UniversityofMichiganX | 6 weeks, 2-4 hours per week. | Introduction to Python: Fundamentals | 
 
 ## Math:
 | Course | School | Time | Prerequisites |
