@@ -37,8 +37,9 @@ These are the math courses that are related towards Python.
 | [Essential Math for Machine Learning: Python Edition](https://www.edx.org/course/essential-math-for-machine-learning-python-edition-3)| Microsoft| 6 Weeks, 6-8 Hours per week.| Introduction to Python: Fundamentals |
 
 ## Additional Resources:
-Below are a various amount of resources that are free to access that you can also use to learn Python. Not all of these resources are open source. 
+Below are a various amount of resources that are free to access that you can also use to learn Python. **Not all of these resources are open source. 
 
 | Resource | Description | 
 | ------ | ------ | 
 | [Master Python](https://www.masterpython.me)| This website was created by a friend of mine, it contains tutorials for the basics in Python. |
+| [Datacamp Python Courses](https://www.datacamp.com/courses/tech:python?utm_source=adwords_ppc&utm_campaignid=1565610360&utm_adgroupid=63334254150&utm_device=c&utm_keyword=%2Blearn%20%2Bpython%20%2Bprogramming&utm_matchtype=b&utm_network=g&utm_adpostion=1t1&utm_creative=295213502777&utm_targetid=kwd-304088894334&utm_loc_interest_ms=&utm_loc_physical_ms=9026803&gclid=Cj0KCQjw5MLrBRClARIsAPG0WGyBuTPVQIMLUBrsuCI9O8UFq-_tykWpIJk6PESVewbMXyjh8RFW-74aArudEALw_wcB)| This website is excellent for learning Data Science and it is also useful for staring off in Python.|
