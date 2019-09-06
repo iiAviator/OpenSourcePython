@@ -3,8 +3,6 @@ This repository contains a compilation of resources that you can use to learn Py
 
 Github Pages version of the website: [iiAviator.github.io/OpenSourcePython](https://iiaviator.github.io/OpenSourcePython/) 
 
-Github Repository: [Github Repo](https://github.com/iiAviator/OpenSourcePython)
-
 ## Courses:
 Please note that you don't have to follow the prerequisites and the order of the courses. You can check the actual course for the recommended prerequisities. 
 
