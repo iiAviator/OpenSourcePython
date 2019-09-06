@@ -3,7 +3,7 @@ This repository contains a compilation of resources that you can use to learn Py
 
 ## Courses:
 | Course | School | Time | Prerequisites |
-| ------ | ------ | ------ | ------ | ------ |
+| ------ | ------ | ------ | ------ |
 | [Introduction to Python: Absolute Beginner](%5Bhttps://www.edx.org/course/introduction-to-python-absolute-beginner-4%5D%28https://www.edx.org/course/introduction-to-python-absolute-beginner-4%29)| Microsoft| 5 Weeks, 3-4 Hours per week.| |
 | [Introduction to Python: Fundamentals](https://www.edx.org/course/introduction-to-python-fundamentals-4) | Microsoft| 5 Weeks, 3-4 Hours per week. | |
 |  |  | | |
