@@ -37,4 +37,4 @@ Below are a various amount of resources that are free to access that you can als
 
 | Resource | Description | 
 | ------ | ------ | 
-| [Master Python](https://www.masterpytho)| This website was created by a friend of mine, it contains tutorials for the basics in Python. |
+| [Master Python](https://www.masterpython.me)| This website was created by a friend of mine, it contains tutorials for the basics in Python. |
