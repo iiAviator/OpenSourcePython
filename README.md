@@ -18,9 +18,12 @@ These are the courses that help you go further into a certain field, once again,
 
 ### Full Stack:
 These are the courses you want to take if you want to become a full stack web devloper.
+
 | Course | School | Time | Prerequisites |
 | ------ | ------ | ------ | ------ |
 | [Python Django Web Framework - Full Course for Beginners](https://www.youtube.com/watch?v=F5mRW0jo-U4) | freeCodeCamp.org | 4 hours, self paced | Introduction to Python: Fundamentals |
+
+### Data Science:
 
 | Course | School | Time | Prerequisites |
 | ------ | ------ | ------ | ------ |
