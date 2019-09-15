@@ -22,6 +22,9 @@ These are the courses you want to take if you want to become a full stack web de
 | Course | School | Time | Prerequisites |
 | ------ | ------ | ------ | ------ |
 | [Python Django Web Framework - Full Course for Beginners](https://www.youtube.com/watch?v=F5mRW0jo-U4) | freeCodeCamp.org | 4 hours, self paced | Introduction to Python: Fundamentals |
+| [CS50 Web Programming with Python and Javascript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)| HarvardX |12 weeks, 6-9 hours per week. | CS50 or Introduction to Python: Fundamentals|
+| [Using Python to Access to Web Data](https://www.coursera.org/learn/python-network-data) | UniversityofMichiganX | 6 weeks, 2-4 hours per week. | Introduction to Python: Fundamentals | 
+
 
 ### Data Science:
 
@@ -33,8 +36,6 @@ These are the courses you want to take if you want to become a full stack web de
 | [Python Basics for Data Science](https://www.edx.org/course/python-basics-for-data-science-2) | IBM| 1 week, 2-4 hours per week. | Basic math|
 | [Analyzing Data with Python](https://www.edx.org/course/data-analysis-with-python) | IBM | 5 weeks, 2-4 hours per week. | Introduction to Python: Fundamentals |
 | [Data Visualization for Python](https://www.edx.org/course/data-visualization-with-python) | IBM | 5 weeks, 2-4 hours per week. | Analyzing Data with Python, Python Basics for Data Science |
-| [CS50 Web Programming with Python and Javascript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)| HarvardX |12 weeks, 6-9 hours per week. | CS50 or Introduction to Python: Fundamentals|
-| [Using Python to Access to Web Data](https://www.coursera.org/learn/python-network-data) | UniversityofMichiganX | 6 weeks, 2-4 hours per week. | Introduction to Python: Fundamentals | 
 
 ## Math:
 These are the math courses that are related towards Python. 
