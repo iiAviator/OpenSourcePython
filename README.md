@@ -16,6 +16,12 @@ These are the beginner courses to get you started on Python:
 ## Going Further:
 These are the courses that help you go further into a certain field, once again, you don't have to follow the order. You may choose what to take at any time. 
 
+### Full Stack:
+These are the courses you want to take if you want to become a full stack web devloper.
+| Course | School | Time | Prerequisites |
+| ------ | ------ | ------ | ------ |
+| [Python Django Web Framework - Full Course for Beginners](https://www.youtube.com/watch?v=F5mRW0jo-U4) | freeCodeCamp.org | 4 hours, self paced | Introduction to Python: Fundamentals |
+
 | Course | School | Time | Prerequisites |
 | ------ | ------ | ------ | ------ |
 | [Principles of Machine Learning: Python Edition](https://www.edx.org/course/principles-of-machine-learning-python-edition-3) | Microsoft| 6 Weeks, 6-8 Hours per week. | Basic math and Introduction to Python Fundamentals  |
